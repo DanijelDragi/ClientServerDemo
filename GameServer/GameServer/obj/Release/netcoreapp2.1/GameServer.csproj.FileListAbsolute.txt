@@ -1,0 +1,11 @@
+D:\Work\GDE\GameServer\GameServer\bin\Release\netcoreapp2.1\GameServer.deps.json
+D:\Work\GDE\GameServer\GameServer\bin\Release\netcoreapp2.1\GameServer.runtimeconfig.json
+D:\Work\GDE\GameServer\GameServer\bin\Release\netcoreapp2.1\GameServer.runtimeconfig.dev.json
+D:\Work\GDE\GameServer\GameServer\bin\Release\netcoreapp2.1\GameServer.dll
+D:\Work\GDE\GameServer\GameServer\bin\Release\netcoreapp2.1\GameServer.pdb
+D:\Work\GDE\GameServer\GameServer\obj\Release\netcoreapp2.1\GameServer.csprojAssemblyReference.cache
+D:\Work\GDE\GameServer\GameServer\obj\Release\netcoreapp2.1\GameServer.csproj.CoreCompileInputs.cache
+D:\Work\GDE\GameServer\GameServer\obj\Release\netcoreapp2.1\GameServer.AssemblyInfoInputs.cache
+D:\Work\GDE\GameServer\GameServer\obj\Release\netcoreapp2.1\GameServer.AssemblyInfo.cs
+D:\Work\GDE\GameServer\GameServer\obj\Release\netcoreapp2.1\GameServer.dll
+D:\Work\GDE\GameServer\GameServer\obj\Release\netcoreapp2.1\GameServer.pdb
